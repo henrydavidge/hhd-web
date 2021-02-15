@@ -7,3 +7,7 @@ _site
 .tweet-cache/
 Gemfile.lock
 vendor
+
+# Editor swap files
+*.swp
+*.swo
